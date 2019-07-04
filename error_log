@@ -1,0 +1,5 @@
+[04-Jul-2019 01:24:44 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/namagzbl/public_html/testkerja/home/application/views/crud.php on line 14
+[04-Jul-2019 01:24:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/namagzbl/public_html/testkerja/home/application/views/crud.php on line 14
+[04-Jul-2019 01:41:09 UTC] PHP Fatal error:  Call to undefined method Book_model::getall() in /home/namagzbl/public_html/testkerja/home/application/controllers/Crud.php on line 23
+[04-Jul-2019 01:51:33 UTC] PHP Fatal error:  Call to a member function view() on null in /home/namagzbl/public_html/testkerja/home/application/controllers/Crud.php on line 28
+[04-Jul-2019 02:26:16 UTC] PHP Fatal error:  Call to undefined method Type_model::get_data_by_id() in /home/namagzbl/public_html/testkerja/home/application/controllers/Crud.php on line 47
